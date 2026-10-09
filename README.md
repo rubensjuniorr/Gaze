@@ -25,6 +25,10 @@ python -m pip install -r requirements.txt
 ```bash
 python screen.py
 ```
+Type or paste your speech and click Start reading.
+Click the reading area to advance; long press to go backward.
+Use Editar texto to return to the editor. Your text is preserved.
+Starting again resets the reading position to the first block.
 
 ## Test
 
